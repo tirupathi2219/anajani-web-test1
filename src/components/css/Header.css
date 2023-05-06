@@ -1,0 +1,17 @@
+
+
+.header-container{
+    background-color: #2e45a7;
+    height: 35vmin;
+    color:white
+}
+.header-title{
+    font-size: 48px;
+}
+.App-logo {
+    height: 25vmin;
+    pointer-events: none;
+    border: 1px solid white;
+    border-radius: 40%;
+  }
+  
